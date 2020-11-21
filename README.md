@@ -13,6 +13,7 @@ Personal [prettier](https://github.com/prettier/prettier) config.
 ## Usage
 
 Add to your prettier config:
+
 ```json
 "@akijoey/prettier-config"
 ```
@@ -23,9 +24,7 @@ Add to your prettier config:
 
 [npm-image]: https://img.shields.io/npm/v/@akijoey/prettier-config
 [npm-url]: https://www.npmjs.com/package/@akijoey/prettier-config
-
 [build-image]: https://www.travis-ci.org/akijoey/prettier-config.svg?branch=master
 [build-url]: https://www.travis-ci.org/akijoey/prettier-config
-
 [license-image]: https://img.shields.io/github/license/akijoey/prettier-config
 [license-url]: https://github.com/akijoey/prettier-config/blob/master/LICENSE
