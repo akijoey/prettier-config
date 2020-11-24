@@ -3,9 +3,9 @@
 
 
 "@akijoey/eslint-config@latest":
-  version "0.0.3"
-  resolved "https://registry.npm.taobao.org/@akijoey/eslint-config/download/@akijoey/eslint-config-0.0.3.tgz#b649146f590afe23b8421eff7d03a442415d544e"
-  integrity sha1-tkkUb1kK/iO4Qh7/fQOkQkFdVE4=
+  version "0.0.4"
+  resolved "https://registry.npm.taobao.org/@akijoey/eslint-config/download/@akijoey/eslint-config-0.0.4.tgz#8c0156e2def5a4afeac4a258828e9ff8532a3121"
+  integrity sha1-jAFW4t71pK/qxKJYgo6f+FMqMSE=
   dependencies:
     eslint-config-prettier "^6.15.0"
     eslint-config-standard "^16.0.2"
