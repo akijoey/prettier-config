@@ -2,6 +2,7 @@
 
 [![npm][npm-image]][npm-url]
 [![build][build-image]][build-url]
+[![coverage][coverage-image]][coverage-url]
 [![license][license-image]][license-url]
 
 Personal [prettier](https://github.com/prettier/prettier) config.
@@ -24,7 +25,12 @@ Add to your prettier config:
 
 [npm-image]: https://img.shields.io/npm/v/@akijoey/prettier-config
 [npm-url]: https://www.npmjs.com/package/@akijoey/prettier-config
-[build-image]: https://www.travis-ci.org/akijoey/prettier-config.svg?branch=master
-[build-url]: https://www.travis-ci.org/akijoey/prettier-config
+
+[build-image]: https://img.shields.io/github/workflow/status/akijoey/prettier-config/Build
+[build-url]: https://github.com/akijoey/prettier-config/actions/workflows/build.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/gh/akijoey/prettier-config
+[coverage-url]: https://codecov.io/gh/akijoey/prettier-config
+
 [license-image]: https://img.shields.io/github/license/akijoey/prettier-config
 [license-url]: https://github.com/akijoey/prettier-config/blob/master/LICENSE
