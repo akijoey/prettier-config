@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/akijoey/prettier-config/compare/v1.0.0...v1.0.1) (2021-08-30)
+
+
+### Bug Fixes
+
+* test config ([561f06b](https://github.com/akijoey/prettier-config/commit/561f06b9b48fd26be46e28ce2e6380020cc03f2a))
+
 # 1.0.0 (2021-08-27)
 
 
