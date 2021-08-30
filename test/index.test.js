@@ -1,6 +1,6 @@
 const config = require('../.prettierrc')
 
-describe('eslint-config', () => {
+describe('prettier-config', () => {
   it('correct export', () => {
     const index = require('..')
     expect(index).toEqual(config)
