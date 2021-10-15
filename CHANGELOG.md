@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/akijoey/prettier-config/compare/v1.0.2...v1.0.3) (2021-10-15)
+
+
+### Bug Fixes
+
+* ignore white space ([94b1d79](https://github.com/akijoey/prettier-config/commit/94b1d792cc4f76a5f8603381e4b89b4a51a66fbc))
+
 ## [1.0.2](https://github.com/akijoey/prettier-config/compare/v1.0.1...v1.0.2) (2021-09-18)
 
 
