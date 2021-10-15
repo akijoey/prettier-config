@@ -10,10 +10,10 @@ module.exports = {
   jsxSingleQuote: false,
   trailingComma: 'none',
   bracketSpacing: true,
-  jsxBracketSameLine: false,
+  bracketSameLine: false,
   arrowParens: 'avoid',
   proseWrap: 'preserve',
-  htmlWhitespaceSensitivity: 'strict',
+  htmlWhitespaceSensitivity: 'ignore',
   vueIndentScriptAndStyle: true,
   endOfLine: 'lf',
   embeddedLanguageFormatting: 'auto'
