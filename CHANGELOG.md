@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/akijoey/prettier-config/compare/v1.0.3...v1.0.4) (2021-11-10)
+
+
+### Bug Fixes
+
+* upgrade devkit ([9169353](https://github.com/akijoey/prettier-config/commit/91693530143449ae2e99d64fd1542af47ff2cef9))
+
 ## [1.0.3](https://github.com/akijoey/prettier-config/compare/v1.0.2...v1.0.3) (2021-10-15)
 
 
