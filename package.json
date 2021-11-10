@@ -19,16 +19,16 @@
     ".prettierrc.js"
   ],
   "scripts": {
-    "lint": "dev-scripts lint",
-    "test": "dev-scripts test",
-    "format": "dev-scripts format",
-    "prepare": "dev-scripts hook"
+    "lint": "devkit lint",
+    "test": "devkit test",
+    "format": "devkit format",
+    "prepare": "devkit hook"
   },
   "peerDependencies": {
     "prettier": "^2.2.0"
   },
   "devDependencies": {
-    "@akijoey/dev-scripts": "latest"
+    "@akijoey/devkit": "latest"
   },
   "eslintConfig": {
     "root": true,
