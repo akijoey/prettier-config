@@ -22,26 +22,13 @@
     "lint": "devkit lint",
     "test": "devkit test",
     "format": "devkit format",
-    "prepare": "devkit hook"
+    "prepare": "devkit hook",
+    "release": "devkit release"
   },
   "peerDependencies": {
     "prettier": "^2.2.0"
   },
   "devDependencies": {
     "@akijoey/devkit": "latest"
-  },
-  "eslintConfig": {
-    "root": true,
-    "extends": "@akijoey"
-  },
-  "commitlint": {
-    "extends": "@akijoey/commitlint-config"
-  },
-  "release": {
-    "extends": "@akijoey/semantic-release-config"
-  },
-  "lint-staged": {
-    "*.js": "npm run lint",
-    "*.{js,json,yml}": "npm run format"
   }
 }
