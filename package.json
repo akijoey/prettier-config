@@ -22,11 +22,11 @@
     "lint": "devkit lint",
     "test": "devkit test",
     "format": "devkit format",
-    "prepare": "devkit hook",
+    "prepare": "devkit prepare",
     "release": "devkit release"
   },
   "peerDependencies": {
-    "prettier": "^2.2.0"
+    "prettier": "^2.5.1"
   },
   "devDependencies": {
     "@akijoey/devkit": "latest"
