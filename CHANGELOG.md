@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/akijoey/prettier-config/compare/v1.0.6...v1.0.7) (2022-08-29)
+
+
+### Bug Fixes
+
+* single attribute ([4a8e5e6](https://github.com/akijoey/prettier-config/commit/4a8e5e610425ae21775fc1f53d7937e4e3a8da14))
+
 ## [1.0.6](https://github.com/akijoey/prettier-config/compare/v1.0.5...v1.0.6) (2021-12-09)
 
 
