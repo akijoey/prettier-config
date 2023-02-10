@@ -25,7 +25,7 @@ Add to your prettier config:
 
 [npm-image]: https://img.shields.io/npm/v/@akijoey/prettier-config
 [npm-url]: https://www.npmjs.com/package/@akijoey/prettier-config
-[build-image]: https://img.shields.io/github/workflow/status/akijoey/prettier-config/Build
+[build-image]: https://img.shields.io/github/actions/workflow/status/akijoey/prettier-config/build.yml
 [build-url]: https://github.com/akijoey/prettier-config/actions/workflows/build.yml
 [coverage-image]: https://img.shields.io/codecov/c/gh/akijoey/prettier-config
 [coverage-url]: https://codecov.io/gh/akijoey/prettier-config
