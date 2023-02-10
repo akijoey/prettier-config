@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/akijoey/prettier-config/compare/v1.0.7...v1.0.8) (2023-02-10)
+
+
+### Bug Fixes
+
+* build badge ([9834e0f](https://github.com/akijoey/prettier-config/commit/9834e0fe163ce9c4691b9646e6167c995a3470cd))
+
 ## [1.0.7](https://github.com/akijoey/prettier-config/compare/v1.0.6...v1.0.7) (2022-08-29)
 
 
