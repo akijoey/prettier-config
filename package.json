@@ -26,9 +26,13 @@
     "release": "devkit release"
   },
   "peerDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^3.1.1"
   },
   "devDependencies": {
     "@akijoey/devkit": "latest"
+  },
+  "dependencies": {
+    "@prettier/plugin-pug": "^3.0.0",
+    "prettier-plugin-stylus": "^0.1.0"
   }
 }

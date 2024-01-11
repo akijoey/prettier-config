@@ -17,5 +17,6 @@ module.exports = {
   vueIndentScriptAndStyle: true,
   endOfLine: 'lf',
   embeddedLanguageFormatting: 'auto',
-  singleAttributePerLine: false
+  singleAttributePerLine: false,
+  plugins: ['@prettier/plugin-pug', 'prettier-plugin-stylus']
 }
