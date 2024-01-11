@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/akijoey/prettier-config/compare/v1.0.8...v1.1.0) (2024-01-11)
+
+
+### Features
+
+* prettier plugin ([d3ead16](https://github.com/akijoey/prettier-config/commit/d3ead16bd1e2596c1bf4290752fcc51d7caf6520))
+
 ## [1.0.8](https://github.com/akijoey/prettier-config/compare/v1.0.7...v1.0.8) (2023-02-10)
 
 
